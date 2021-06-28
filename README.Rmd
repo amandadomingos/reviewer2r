@@ -29,9 +29,6 @@ If for some reason you want to install the released version of `reviewer2r` from
 install.packages("reviewer2r")
 ```
 
-Or you can just install development version available on github with:
-
-
 
 ## Example
 
